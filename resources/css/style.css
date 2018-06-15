@@ -3,6 +3,8 @@ font-family: helvetica, sans-serif;}
 
 #mainheading {font-size: 70px;
 font-weight: bold;
-color:black}
+color:white}
 
-#top-para {background-image: url("resources/images/the-flatiron-building.png")}
+#top-para {background: url("../../resources/images/the-flatiron-building.png") no-repeat;}
+#links {font-size: 18px;
+color:white}
